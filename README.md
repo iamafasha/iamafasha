@@ -13,6 +13,5 @@ Hi, I am Afasha, a mentor, and Enterprenuer and Innovator.
 
 <code><a href="https://www.linearc.biz.org/" target="_blank"><img height="50" src="https://www.linearc.biz/wp-content/uploads/2020/04/Asset-10.png"></a></code>
 <code><a href="https://iamafasha.com.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.iamafasha.com/wp-content/uploads/2020/10/Layer_2-1.png"></a></code>
-<code><a href="https://go.dev/" target="_blank"><img height="50" src="https://greenmile.netlify.app/logo.9d8327e6.png"></a></code>
-<code><a href="https://greenmile.netlify.app/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
+<code><a href="https://greenmile.netlify.app/" target="_blank"><img height="50" src="https://greenmile.netlify.app/logo.9d8327e6.png"></a></code>
 <code><a href="https://www.smartupfactory.org.com/" target="_blank"><img height="50" src="https://smartupfactory.org/wp-content/uploads/2020/05/plan-smartup.jpg"></a></code>
