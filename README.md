@@ -3,7 +3,7 @@
 
 Hi, I am Afasha, a mentor, and Enterprenuer and Innovator.
 
-- :books: I’m currently learning Vue and Dart.
+- :books: I’m currently learning Django and Dart.
 - :computer: Techs: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">  <img height="20" src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png">
 - :pushpin: Interests: Full Stack, UI Design, Animation, Motion Graphics, Photography.
 
