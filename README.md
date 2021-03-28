@@ -3,9 +3,9 @@
 
 Hi, I am Afasha, a mentor, and Enterprenuer and Innovator.
 
-- :books: I’m currently learning Django and Dart.
+- :books: I’m currently learning Dart and Larvel.
 - :computer: Techs:
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">      <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">      <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">      <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">
 - :pushpin: Interests: Full Stack, UI Design, Animation, Motion Graphics, Photography.
 
 
@@ -13,5 +13,6 @@ Hi, I am Afasha, a mentor, and Enterprenuer and Innovator.
 
 <code><a href="https://iamafasha.com.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.iamafasha.com/wp-content/uploads/2020/10/Layer_2-1.png"></a></code>
 <code><a href="https://www.linearc.biz.org/" target="_blank"><img height="50" src="https://www.linearc.biz/wp-content/uploads/2020/04/Asset-10.png"></a></code>
-<code><a href="https://greenmile.netlify.app/" target="_blank"><img height="50" src="https://greenmile.netlify.app/logo.9d8327e6.png"></a></code>
-<code><a href="https://www.smartupfactory.org.com/" target="_blank"><img height="50" src="https://smartupfactory.org/wp-content/uploads/2020/05/plan-smartup.jpg"></a></code>
+<code><a href="https://green-mile.netlify.app" target="_blank"><img height="50" src="https://green-mile.netlify.app/logo.9d8327e6.png"></a></code></a>
+</code><code><a href="https://www.rockethealth.shop" target="_blank"><img height="50" src="https://www.rockethealth.shop/wp-content/uploads/2019/08/logonew.png"></a></code></a>
+</code>
