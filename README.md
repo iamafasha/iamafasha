@@ -1,5 +1,5 @@
 
-<table border="0">
+<table class="border-0" border="0">
  <tr>
      <td>
        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamafasha&show_icons=true&locale=en&layout=compact" alt="iamafasha" />
