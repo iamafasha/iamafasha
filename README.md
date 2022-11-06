@@ -1,5 +1,5 @@
 <div class="flex">
-<div style="max-width:50%;min-width:50%;padding:" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamafasha&show_icons=true&locale=en&layout=compact" alt="iamafasha" style="display:block;" width="50%"/></div>
+<div style="max-width:50%;min-width:50%;padding:20px" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamafasha&show_icons=true&locale=en&layout=compact" alt="iamafasha" style="display:block;" width="50%"/></div>
 
  <div>
  ## Isakiye Afasha
