@@ -1,5 +1,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamafasha&show_icons=true&locale=en&layout=compact" alt="iamafasha" /></p>
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=saidimukasa&show_icons=true&locale=en" alt="saidimukasa" width = "100%" height = "300" /></p>
+
 ## Isakiye Afasha
 
 Hi, I am Afasha, a mentor, and Enterprenuer and Innovator.
