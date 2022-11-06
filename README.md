@@ -1,4 +1,4 @@
-<div  style="max-width:50%;min-width:50%;padding:" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamafasha&show_icons=true&locale=en&layout=compact" alt="iamafasha" width="100%"/></div>
+<div style="max-width:50%;min-width:50%;padding:" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamafasha&show_icons=true&locale=en&layout=compact" alt="iamafasha" style="display:block;" width="100%"/></div>
 
 
 ## Isakiye Afasha
