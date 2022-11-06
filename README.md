@@ -1,3 +1,8 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 <table class="border-0" border="0">
  <tr>
